@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: python:3.9
 
-    working_directory: /Github
+    working_directory: /To-Do-List-App
 
     steps:
       - checkout
