@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: python:3.9
 
-    working_directory: /app
+    working_directory: /Github
 
     steps:
       - checkout
